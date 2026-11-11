@@ -18,6 +18,10 @@
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=minalfatih&label=Profile%20Views&color=EA6113&style=flat-square" alt="Profile Views" />
+
 </div>
 
 ---
@@ -104,11 +108,13 @@ I'm also interested in Generative AI and its evolving applications in software d
 
 <!-- ================= GITHUB LANGUAGES ================= -->
 
-## Most Used Languages
-
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=minalfatih&layout=compact&langs_count=8&hide_border=true&theme=transparent&size_weight=0.5&count_weight=0.5" />
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=minalfatih&layout=donut&langs_count=6&hide_border=true&bg_color=2B211B&title_color=FFFFFF&text_color=FFFFFF&size_weight=0.5&count_weight=0.5"
+  width="350"
+  alt="Most Used Languages"
+/>
 
 </div>
 
